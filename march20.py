@@ -36,7 +36,7 @@ yaricap = float(input("Yarıçap giriniz: "))
 alan = 3.14 * (yaricap * yaricap)
 print(f"Alan: {alan}")
 
-çevre = 2 * 3.14 * yaricap
+cevre = 2 * 3.14 * yaricap
 print(f"Çevre : {cevre} ")
 
 
